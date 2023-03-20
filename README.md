@@ -7,9 +7,9 @@
     <a href="https://www.linkedin.com/in/stiven-kang-69a9ab258/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
     </a>
-    <a href="https://github.com/stivenkang">
+    <!--<a href="https://github.com/stivenkang">
       <img src="https://img.shields.io/badge/Github-black?logo=github&logoColor=white&style=for-the-badge" alt="Github Badge" />
-    </a>
+    </a>-->
     <a href="https://wellfound.com/u/stiven-kang">
       <img src="https://img.shields.io/badge/Wellfound-white?logo=wellfound&logoColor=black&style=for-the-badge" alt="Wellfound Badge" />
     </a>
