@@ -20,7 +20,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+    <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="500" height="300"/>
   </div>
 </div>
 
@@ -29,7 +29,7 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer from NYC. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I'm looking for a Software Engineer position, specifically focusing on frontend development web applications.
+- :telescope: I'm looking for a Software Engineer position, specifically focusing on frontend development of web applications.
 <!--- :seedling: Exploring Technical Content Writing.-->
 - :zap: In my free time, I like to read short stories or go out for activities such as learning how to golf. :golfing_man:
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stiven-kang-69a9ab258/)
